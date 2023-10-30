@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on .. Improving our current robot and CADing a new one
+### 🌱 I’m currently learning ... How to CAD a robot
 <!--
 **Nihal-Gummadala/Nihal-Gummadala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
